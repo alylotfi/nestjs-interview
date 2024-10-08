@@ -2,7 +2,7 @@
 
 # Spellbook NestJS Test
 
-Hey 👋 Welcome to Spellbook's NestJS Test - v1. The goal of this exercise is to determine your level of understanding of NestJS at a fundamental level. This test is intended for mid-level developers.
+Hey 👋 Welcome to Spellbook's NestJS Test - v1. The goal of this exercise is to determine your level of understanding of NestJS at a fundamental level.
 
 ## The App
 
